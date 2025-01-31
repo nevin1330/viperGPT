@@ -1,0 +1,22 @@
+name: viper_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - requests
+  - beautifulsoup4
+  - h5py
+  - scikit-learn
+  - datasets
+  - transformers
+  - pip
+  - pip:
+      - lyricsgenius
+      - tiktoken
+      - openai
+      - langchain
+      - einops
+      - torch

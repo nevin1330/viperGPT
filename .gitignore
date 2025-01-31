@@ -1,0 +1,4 @@
+.env
+song_match.ipynb
+df_emotion_with_embeddings.csv
+./song_match/df_emotion_with_embeddings.csv
